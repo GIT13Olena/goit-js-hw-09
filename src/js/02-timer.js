@@ -1,4 +1,5 @@
 import flatpickr from 'flatpickr';
+//style
 import 'flatpickr/dist/flatpickr.min.css';
 
 const options = {
